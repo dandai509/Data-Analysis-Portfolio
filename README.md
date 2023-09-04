@@ -15,3 +15,30 @@
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy, Sklearn
 
 **Results:** Both ARIMA and Linear regression models can be used to predict GDP growth, Linear regression model has outperformed ARIMA model with a Smaller RMSE value 
+
+### Home Loan Eligibility Prediction
+**Code:** ['Home Loan Eligibility Prediction'](https://github.com/dandai509/Data-Analysis-Portfolio/blob/main/Mini%20Project%203%20-%20Home%20Loan%20Prediction.ipynb)
+
+**Goal:** To build a Machine Learning Model to automate the loan eligibility process
+
+**Description:** This project foucused on building a machine learning mode can best predict loan eligibility. Data set from Kaggle, include variety factors such as Gender, marriage status, education, employment, total income etc. This project involved data cleaning and preprocess, model selection, training and evaluation of the model. EDA also performed to demonstrate the results.
+
+**Skills:** data cleaning, data analysis, data visualization, Machine learning Modeling, Correlation, Logistic Regression, Decision Tree Model, Random Forrest Model
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Sklearn
+
+**Results:** Decision Tree Model has the highest Accuracy of 79% to predict the loan eligibility. Credit History, total income, property area and loan amount being top 4 factors that affect loan approval
+
+
+### Data Exploration Analysis on Airbnb Amsterdam
+**Code:** ['EDA on Airbnb Amsterdam'](https://github.com/dandai509/Data-Analysis-Portfolio/blob/main/Mini%20project.ipynb)
+
+**Goal:** To produce a detailed price analysis report to client and supports clear recommendation for investment
+
+**Description:** This project foucused on Data Exploration Analysis for amsterdam airbnb prices. data scraped from airbnb website. factors such as revenue of most successful host/neighbourhoods, most reviewed/listed property/neighbourhoods all taken into consideration of the analysis
+
+**Skills:** data cleaning, data analysis, data visualization, feature engineering, geospatial analysis, correlation analysis
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib
+
+**Results:** Data analysis reported showed top and average Airbnb host revenue report demonstrated, most popular Airbnb type property found. Most listing and highest revenue area found in Amsterdam. 
