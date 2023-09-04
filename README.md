@@ -4,7 +4,7 @@
 ## Table of Contents
 ## Portfolio Projects
 ### New Zealand GDP Forecast
-**Code:** ['New Zealnd GDP Forecast']https://github.com/dandai509/IOD/blob/main/Capstone%20project-%20NZ%20GDP%20Forecasting(Final).ipynb
+**Code:** ['New Zealnd GDP Forecast'](https://github.com/dandai509/IOD/blob/main/Capstone%20project-%20NZ%20GDP%20Forecasting(Final).ipynb)
 
 **Goal:** To predict NZ GDP's future trend by using the ARIMA Model and Linear Regression Model
 
