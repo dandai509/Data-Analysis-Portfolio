@@ -1,7 +1,5 @@
 # Daniel Dai- Data Analyst Portfolio
-## About
-## Table of Contents
-## Portfolio Projects
+## Python Projects
 ### New Zealand GDP Forecast
 **Code:** ['New Zealand GDP Forecast'](https://github.com/dandai509/IOD/blob/main/Capstone%20project-%20NZ%20GDP%20Forecasting(Final).ipynb)
 
@@ -43,6 +41,7 @@
 
 **Results:** Data analysis reported showed top and average Airbnb host revenue report demonstrated, the most popular Airbnb type property found. Most listing and highest revenue area found in Amsterdam. 
 
+## SQL Projects
 ### Covid 19 Data Exploration
 **Code:** [`COVID 19 SQL Project.sql`](https://github.com/dandai509/Data-Analysis-Portfolio/blob/main/COVID%2019%20SQL%20Project.sql)
 
