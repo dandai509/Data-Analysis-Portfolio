@@ -1,6 +1,6 @@
 # Daniel Dai- Data Analyst Portfolio
 ## Python Projects
-### New Zealand GDP Forecast-Time Series Analysis
+### New Zealand GDP Forecast(Time Series Analysis)
 **Code:** ['New Zealand GDP Forecast'](https://github.com/dandai509/IOD/blob/main/Capstone%20project-%20NZ%20GDP%20Forecasting(Final).ipynb)
 
 **Goal:** To predict NZ GDP's future trend by using the ARIMA Model and Linear Regression Model
@@ -13,7 +13,7 @@
 
 **Results:** Both ARIMA and Linear regression models can be used to predict GDP growth, Linear regression model has outperformed ARIMA model with a Smaller RMSE value 
 
-### Home Loan Eligibility Prediction-Supervised Machine Learning Model
+### Home Loan Eligibility Prediction(Supervised Machine Learning Model)
 **Code:** ['Home Loan Eligibility Prediction'](https://github.com/dandai509/Data-Analysis-Portfolio/blob/main/Mini%20Project%203%20-%20Home%20Loan%20Prediction.ipynb)
 
 **Goal:** To build a Machine Learning Model to automate the loan eligibility process
@@ -27,7 +27,7 @@
 **Results:** Decision Tree Model has the highest Accuracy of 79% to predict the loan eligibility. Credit History, total income, property area and loan amount being top 4 factors that affect loan approval
 
 
-### Data Exploration Analysis on Airbnb Amsterdam
+### Data Exploration Analysis on Airbnb Amsterdam(EDA)
 **Code:** ['EDA on Airbnb Amsterdam'](https://github.com/dandai509/Data-Analysis-Portfolio/blob/main/Mini%20project.ipynb)
 
 **Goal:** To produce a detailed price analysis report to client and supports clear recommendation for investment
