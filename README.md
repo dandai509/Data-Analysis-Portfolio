@@ -12,7 +12,8 @@
     - [New Zealand GDP Forecast](https://github.com/dandai509/IOD/blob/main/Capstone%20project-%20NZ%20GDP%20Forecasting(Final).ipynb)
     - [Home Loan Eligibility Prediction](https://github.com/dandai509/Data-Analysis-Portfolio/blob/main/Mini%20Project%203%20-%20Home%20Loan%20Prediction.ipynb)
     - [EDA on Airbnb Amsterdam](https://github.com/dandai509/Data-Analysis-Portfolio/blob/main/Mini%20project.ipynb)
-
+- [Education]()  
+- [Certificates]()
 ## Power BI Projects
 
 ### Univeristy Customer Survey Analysis
@@ -98,5 +99,26 @@
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib
 
 **Results:** Data analysis reported showed top and average Airbnb host revenue report demonstrated, the most popular Airbnb type property found. Most listing and highest revenue area found in Amsterdam. 
+
+## Education
+
+The University of Sydney 
+Master of Economics, Major in Econometrics
+
+Auckland University of Technology 
+Graduate Cetificate in Data Science 
+
+Auckland University of Technology 
+Bachelor of Business, Major in Finance
+
+
+## Certificates
+
+Microsoft Power BI Data Analyst Professional Certificate (Coursera)
+Intermediate Python (Udemy)
+Intermediate SQL Queries(Udemy)
+Statistical Thinking in Python(Udemy)
+Code like a SQL Programmer(Udemy)
+Microsoft Power BI for Business Intelligence(Udemy)
 
 
