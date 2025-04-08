@@ -24,7 +24,7 @@
 
 **Goal:** To find out how customers rate our services and seek space for improvement
 
-**Description:** The University of Auckland Recreation Center conducts customer surveys on an annual basis. The goal is to find out how customers rate our services and seek space for improvement. In the 2022 report, various questions were asked, and raw data were gathered from UoA website. As an operations coordinator, I’m responsible for generating a report by using Power BI to the manager to make operational decisions based on the data findings.
+**Description:** The University of Auckland Recreation Center conducts customer surveys on an annual basis. The goal is to find out how customers rate our services and seek space for improvement. In the survey report, various questions were asked, and raw data were gathered from UoA website. As an data analyst, I’m responsible for generating a report by using Power BI to the manager to make operational decisions based on the data findings.
 
 **Skills:** data cleaning, data transformation, data modeling, data analysis, data visualization
 
