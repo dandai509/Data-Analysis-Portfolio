@@ -9,9 +9,9 @@
 
 **Skills:** data cleaning, data transformation, data modeling, data analysis, data visualization
 
-**Technology:** MS PowerBI, MS Excle DAX, M Language, Pivot table
+**Technology:** MS PowerBI, MS Excel, Power Query, DAX, M Language, Pivot table
 
-**Results:** Successfuly identified the service that has the highest and lowest satisfaction socre, recommendation was given to customer service team to improve the satisfaction score in the future. 
+**Results:** The dashboard provided Rec Centre customer service team with a clear, data-backed understanding of member satisfaction. Several initiatives—such as improved communication and community events—were implemented based on these findings. This work project showcased my ability to turn raw survey data into business insights that drive positive change.
 
 ## SQL Projects
 ### Eden Pizza Sales Analysis
