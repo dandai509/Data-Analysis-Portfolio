@@ -9,9 +9,9 @@
     - [`Pizza Sales Analysis`](https://github.com/dandai509/SQL-Power-BI-Pizza-Sales-Analysis-)
     - [`COVID 19 SQL Project.sql`](https://github.com/dandai509/Data-Analysis-Portfolio/blob/main/COVID%2019%20SQL%20Project.sql)
   - Python
-    - ['New Zealand GDP Forecast'](https://github.com/dandai509/IOD/blob/main/Capstone%20project-%20NZ%20GDP%20Forecasting(Final).ipynb)
-    - ['Home Loan Eligibility Prediction'](https://github.com/dandai509/Data-Analysis-Portfolio/blob/main/Mini%20Project%203%20-%20Home%20Loan%20Prediction.ipynb)
-    - ['EDA on Airbnb Amsterdam'](https://github.com/dandai509/Data-Analysis-Portfolio/blob/main/Mini%20project.ipynb)
+    - [New Zealand GDP Forecast](https://github.com/dandai509/IOD/blob/main/Capstone%20project-%20NZ%20GDP%20Forecasting(Final).ipynb)
+    - [Home Loan Eligibility Prediction](https://github.com/dandai509/Data-Analysis-Portfolio/blob/main/Mini%20Project%203%20-%20Home%20Loan%20Prediction.ipynb)
+    - [EDA on Airbnb Amsterdam](https://github.com/dandai509/Data-Analysis-Portfolio/blob/main/Mini%20project.ipynb)
 
 ## Power BI Projects
 
