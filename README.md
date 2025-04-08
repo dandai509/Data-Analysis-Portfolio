@@ -18,7 +18,7 @@
 
 ## Power BI Projects
 
-### Univeristy Customer Survey Analysis
+### Recreation Centre Customer Survey Analysis
 
 **Report:** [`Customer Survey Analysis`](https://github.com/dandai509/PowerBI-University-Customer-Survey-Analysis)
 
