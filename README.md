@@ -1,6 +1,7 @@
 # Daniel Dai- Data Analyst Portfolio
 
 ## Table of Contents
+
 - [Portfolio Projects](https://github.com/dandai509/Data-Analysis-Portfolio?tab=readme-ov-file#daniel-dai--data-analyst-portfolio)
   - Power BI
     - [`Customer Survey Analysis`](https://github.com/dandai509/PowerBI-University-Customer-Survey-Analysis)
@@ -12,8 +13,9 @@
     - [New Zealand GDP Forecast](https://github.com/dandai509/IOD/blob/main/Capstone%20project-%20NZ%20GDP%20Forecasting(Final).ipynb)
     - [Home Loan Eligibility Prediction](https://github.com/dandai509/Data-Analysis-Portfolio/blob/main/Mini%20Project%203%20-%20Home%20Loan%20Prediction.ipynb)
     - [EDA on Airbnb Amsterdam](https://github.com/dandai509/Data-Analysis-Portfolio/blob/main/Mini%20project.ipynb)
-- [Education]()  
-- [Certificates]()
+- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
+- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates))
+
 ## Power BI Projects
 
 ### Univeristy Customer Survey Analysis
