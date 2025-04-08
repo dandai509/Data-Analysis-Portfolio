@@ -118,14 +118,18 @@ Bachelor of Business, Major in Finance
 
 Microsoft Power BI Data Analyst Professional Certificate (Coursera)
 
-Intermediate Python (Udemy)
-
-Intermediate SQL Queries(Udemy)
-
-Statistical Thinking in Python(Udemy)
+Microsoft Power BI for Business Intelligence(Udemy)
 
 Code like a SQL Programmer(Udemy)
 
-Microsoft Power BI for Business Intelligence(Udemy)
+Intermediate SQL Queries(Udemy)
+
+Intermediate Python (Udemy)
+
+Statistical Thinking in Python(Udemy)
+
+
+
+
 
 
