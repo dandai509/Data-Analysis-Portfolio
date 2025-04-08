@@ -1,4 +1,18 @@
 # Daniel Dai- Data Analyst Portfolio
+## PowerBI Projects
+### Univeristy Customer Survey Analysis
+## SQL Projects
+### Eden Pizza Sales Analysis
+### Covid 19 Data Exploration
+**Code:** [`COVID 19 SQL Project.sql`](https://github.com/dandai509/Data-Analysis-Portfolio/blob/main/COVID%2019%20SQL%20Project.sql)
+
+**Goal:** To perform EDA on COVID 19 date to show New Zealand VS World
+
+**Description:** This project focused on Data Exploration Analysis for COVID-19 of different countries from Feb 2020 to April 2021. The dataset contains records of Covid-19 cases, deaths and vaccine records by country. Steps includes data loading, data cleaning and preprocessing and EDA 
+
+**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+**Technology:** SQL Server
 ## Python Projects
 ### New Zealand GDP Forecast(Time Series Analysis)
 **Code:** ['New Zealand GDP Forecast'](https://github.com/dandai509/IOD/blob/main/Capstone%20project-%20NZ%20GDP%20Forecasting(Final).ipynb)
@@ -41,14 +55,4 @@
 
 **Results:** Data analysis reported showed top and average Airbnb host revenue report demonstrated, the most popular Airbnb type property found. Most listing and highest revenue area found in Amsterdam. 
 
-## SQL Projects
-### Covid 19 Data Exploration
-**Code:** [`COVID 19 SQL Project.sql`](https://github.com/dandai509/Data-Analysis-Portfolio/blob/main/COVID%2019%20SQL%20Project.sql)
 
-**Goal:** To perform EDA on COVID 19 date to show New Zealand VS World
-
-**Description:** This project focused on Data Exploration Analysis for COVID-19 of different countries from Feb 2020 to April 2021. The dataset contains records of Covid-19 cases, deaths and vaccine records by country. Steps includes data loading, data cleaning and preprocessing and EDA 
-
-**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
-
-**Technology:** SQL Server
