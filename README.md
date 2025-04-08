@@ -13,8 +13,8 @@
     - [New Zealand GDP Forecast](https://github.com/dandai509/IOD/blob/main/Capstone%20project-%20NZ%20GDP%20Forecasting(Final).ipynb)
     - [Home Loan Eligibility Prediction](https://github.com/dandai509/Data-Analysis-Portfolio/blob/main/Mini%20Project%203%20-%20Home%20Loan%20Prediction.ipynb)
     - [EDA on Airbnb Amsterdam](https://github.com/dandai509/Data-Analysis-Portfolio/blob/main/Mini%20project.ipynb)
-- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
-- [Certification](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
+- [Education](https://github.com/dandai509/Data-Analysis-Portfolio?tab=readme-ov-file#education)  
+- [Certification](https://github.com/dandai509/Data-Analysis-Portfolio?tab=readme-ov-file#certificates)
 
 ## Power BI Projects
 
