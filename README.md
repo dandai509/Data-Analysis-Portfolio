@@ -14,7 +14,7 @@
     - [Home Loan Eligibility Prediction](https://github.com/dandai509/Data-Analysis-Portfolio/blob/main/Mini%20Project%203%20-%20Home%20Loan%20Prediction.ipynb)
     - [EDA on Airbnb Amsterdam](https://github.com/dandai509/Data-Analysis-Portfolio/blob/main/Mini%20project.ipynb)
 - [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates))
+- [Certification](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
 
 ## Power BI Projects
 
@@ -114,7 +114,7 @@ Auckland University of Technology
 Bachelor of Business, Major in Finance
 
 
-## Certificates
+## Certification
 
 Microsoft Power BI Data Analyst Professional Certificate (Coursera)
 Intermediate Python (Udemy)
