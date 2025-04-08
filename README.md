@@ -1,8 +1,23 @@
 # Daniel Dai- Data Analyst Portfolio
+
 ## PowerBI Projects
 ### Univeristy Customer Survey Analysis
+**Report:** [`Customer Survey Analysis`](https://github.com/dandai509/PowerBI-University-Customer-Survey-Analysis)
+**Goal:** To find out how customers rate our services and seek space for improvement
+
+**Description:** The University of Auckland Recreation Center conducts customer surveys on an annual basis. The goal is to find out how customers rate our services and seek space for improvement. In the 2022 report, various questions were asked, and raw data were gathered from UoA website. As an operations coordinator, I’m responsible for generating a report by using Power BI to the manager to make operational decisions based on the data findings.
+
+**Skills:** data cleaning, data transformation, data modeling, data analysis, data visualization
+
+**Technology:** MS PowerBI, MS Excle DAX, M Language, Pivot table
+
+**Results:** Successfuly identified the service that has the highest and lowest satisfaction socre, recommendation was given to customer service team to improve the satisfaction score in the future. 
+
 ## SQL Projects
 ### Eden Pizza Sales Analysis
+
+
+
 ### Covid 19 Data Exploration
 **Code:** [`COVID 19 SQL Project.sql`](https://github.com/dandai509/Data-Analysis-Portfolio/blob/main/COVID%2019%20SQL%20Project.sql)
 
